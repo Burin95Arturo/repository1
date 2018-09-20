@@ -1,1 +1,5 @@
 Nuevo archivo para seguir aprendiendo
+Acabo de editar el archivo usando el comando "nano" del terminal de linux.
+
+
+
